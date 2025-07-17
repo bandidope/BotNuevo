@@ -28,12 +28,12 @@ function verify() {
 }
 verify();
 
-say('Chelzzy Supreme', {
+say('Miku - Bot', {
   font: 'chrome',
   align: 'center',
   colors: ['white']
 });
-say(`Developed By • @brxzz_xit`, {
+say(`Developed By • Adrian`, {
   font: 'console',
   align: 'center',
   colors: ['magenta']
